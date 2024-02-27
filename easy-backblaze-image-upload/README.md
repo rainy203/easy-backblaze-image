@@ -1,6 +1,6 @@
 # Notes
 This library was made specifically for sveltekit Form actions. It is not certain how it would act on a non-sveltekit app like Node.js Express. 
-[Github]
+[Github Page](https://github.com/rainy203/easy-backblaze-image/tree/main/easy-backblaze-image-upload)
 
 # Initialization
 ```bash
