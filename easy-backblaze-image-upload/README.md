@@ -41,6 +41,7 @@ const imageLink : string = await uploadB2(file : any, applicationKey: "string", 
             const imageLink = await uploadB2(file, applicationKey, applicationKeyId) //returns the link
 
         database.save(imageLink)
+        //Saves it to some database somewhere
         }
     }
 
